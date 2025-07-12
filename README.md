@@ -1,6 +1,12 @@
 # Geniece Brown</a>'s Project Portfolio 👩🏾‍💻
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I'm an aspiring cybersecurity professional with a strong curiosity for how technology works—and a growing passion for keeping it secure.
+
+After completing a hands-on cybersecurity bootcamp and building foundational skills through labs and real-world simulations, I discovered a deep interest in vulnerability management. I enjoy analyzing systems, identifying weaknesses, and proposing solutions that help organizations strengthen their security posture.
+
+Right now, I'm actively expanding my skills by studying for the CompTIA Security+ certification, while building projects that reflect both my technical learning and my interest in securing digital environments. My portfolio includes a Vulnerability Management Program Implementation Project, which demonstrates my understanding of threat identification, risk prioritization, and remediation workflows.
+
+I believe that cybersecurity is about being curious, resourceful, and proactive—and I'm committed to learning, growing, and making a positive impact in the field.
 
 
 ## ⚠️ Vulnerability Management Projects
