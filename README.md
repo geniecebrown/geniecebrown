@@ -2,7 +2,7 @@
 
 I'm an aspiring cybersecurity professional with a strong curiosity for how technology works—and a growing passion for keeping it secure.
 
-After completing a hands-on cybersecurity bootcamp and building foundational skills through labs and real-world simulations, I have developed a deeper interest in vulnerability management which invovles analyzing systems, identifying weaknesses, and proposing solutions that can help organizations strengthen their security posture.
+After completing a hands-on cybersecurity bootcamp and building foundational skills through labs and real-world simulations, I have developed a deeper interest in vulnerability management which involves analyzing systems, identifying weaknesses, and proposing solutions that can help organizations strengthen their security posture.
 
 Right now, I'm actively expanding my skills by studying for the CompTIA Security+ certification, while building projects that reflect both my technical learning and my interest in securing digital environments. My portfolio includes a Vulnerability Management Program Implementation Project, which demonstrates my understanding of threat identification, risk prioritization, and remediation workflows.
 
