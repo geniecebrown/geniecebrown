@@ -1,12 +1,10 @@
 # Geniece Brown</a>'s Project Portfolio 👩🏾‍💻
 
-I'm an aspiring cybersecurity professional with a strong curiosity for how technology works—and a growing passion for keeping it secure.
+I'm an aspiring cybersecurity professional with a growing interest in how technology works and helping to keep it secure.
 
-After completing a hands-on cybersecurity bootcamp and building foundational skills through labs and real-world simulations, I have developed a deeper interest in vulnerability management which involves analyzing systems, identifying weaknesses, and proposing solutions that can help organizations strengthen their security posture.
+After completing a hands-on cybersecurity bootcamp and building foundational skills through labs and real-world simulations, I have developed a deeper interest in vulnerability management and a greater awareness of both physical and digital security.
 
-Right now, I'm actively expanding my skills by studying for the CompTIA Security+ certification, while building projects that reflect both my technical learning and my interest in securing digital environments. My portfolio includes a Vulnerability Management Program Implementation Project, which demonstrates my understanding of threat identification, risk prioritization, and remediation workflows.
-
-I'm committed to learning, growing, and making a positive impact in the field.
+Right now, I'm actively expanding my skills by building vulnerability management and threat hunting projects using tools like Tenable, Microsoft Azure, Microsoft Sentinel, and Microsoft Defender for Endpoint. I am also studying for the CompTIA Security+ certification.
 
 
 ## ⚠️ Vulnerability Management Projects
