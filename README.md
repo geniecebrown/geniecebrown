@@ -10,7 +10,7 @@ Right now, I'm actively expanding my skills by building vulnerability management
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/geniecebrown/vulnerability-management-program)**
-
+- **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/geniecebrown/Programmatic-Vulnerability-Remediations)**
 
 
 <!--
