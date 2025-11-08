@@ -4,7 +4,7 @@ I'm an aspiring cybersecurity professional with a growing interest in how techno
 
 After completing a hands-on cybersecurity bootcamp and building foundational skills through labs and real-world simulations, I have developed a deeper interest in vulnerability management and a greater awareness of both physical and digital security.
 
-Right now, I'm actively expanding my skills by building vulnerability management and threat hunting projects using tools like Tenable, Microsoft Azure, Microsoft Sentinel, and Microsoft Defender for Endpoint. I am also studying for the CompTIA Security+ certification.
+I've expanded my skills by building vulnerability management and threat hunting projects using tools like Tenable, Microsoft Azure, Microsoft Sentinel, and Microsoft Defender for Endpoint. I am also studying for the CompTIA Security+ certification.
 
 
 ## ⚠️ Vulnerability Management Projects
