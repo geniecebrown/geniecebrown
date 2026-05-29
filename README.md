@@ -4,7 +4,7 @@ After completing a hands-on cybersecurity bootcamp and building foundational ski
 
 I've expanded my skills by building vulnerability management and threat hunting projects using tools like Tenable, Microsoft Azure, Microsoft Sentinel, and Microsoft Defender for Endpoint.
 
-🔐 [CompTIA Security+ (SY0-701) Certified | 2026](https://www.credly.com/badges/02e20312-4e81-4a31-8239-d1d25cfc1907/public_url)
+🔐 **[CompTIA Security+ (SY0-701) Certified | 2026](https://www.credly.com/badges/02e20312-4e81-4a31-8239-d1d25cfc1907/public_url)**
 
 
 ## ⚠️ Vulnerability Management Projects
