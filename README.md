@@ -12,7 +12,7 @@ I've expanded my skills by building vulnerability management and threat hunting 
 - **[Vulnerability Management Program Implementation](https://github.com/geniecebrown/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/geniecebrown/Programmatic-Vulnerability-Remediations)**
 - **[Manual Vulnerability Remediation (Windows)](https://github.com/geniecebrown/Manual-Vulnerability-Remediation-Windows)**
-
+- **[Windows Vulnerability Assessment: Authenticated vs. Unauthenticated Scanning](https://github.com/geniecebrown/Windows-Authenticated-vs.-Unauthenticated-Vulnerability-Scanning/blob/main/README.md)**
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
